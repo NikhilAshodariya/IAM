@@ -1,6 +1,6 @@
 {
   "name": "iam_access",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this is a role user permission module for import in npm",
   "main": "index.js",
   "scripts": {
