@@ -4,7 +4,7 @@
   "description": "this is a role user permission module for import in npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/NikhilAshodariya/IAM/issues"
   },
-  "homepage": "https://github.com/NikhilAshodariya/IAM#readme"
+  "homepage": "https://github.com/NikhilAshodariya/IAM#readme",
+  "dependencies": {
+    "mongodb": "^3.6.3"
+  }
 }
