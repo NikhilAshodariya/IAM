@@ -3,6 +3,7 @@ this is a role user permission module for import in npm
 
 This module has all the role user permission methods. All are async functions.
 
+```$xslt
 {
   getAllUsers: [AsyncFunction: getAllUsers],
   createUser: [AsyncFunction: createUser],
@@ -23,3 +24,4 @@ This module has all the role user permission methods. All are async functions.
   assignRoleToUser: [AsyncFunction: assignRoleToUser],
   unassignRoleToUser: [AsyncFunction: unassignRoleToUser]
 }
+```
