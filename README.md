@@ -25,3 +25,8 @@ This module has all the role user permission methods. All are async functions.
   unassignRoleToUser: [AsyncFunction: unassignRoleToUser]
 }
 ```
+
+# installation
+```$xslt
+npm install iam_access
+```
